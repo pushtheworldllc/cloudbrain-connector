@@ -11,5 +11,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pushtheworld/cloudbrain-connector.git"
+  },
+  "dependencies": {
+    "when": "^3.7.7"
   }
 }
